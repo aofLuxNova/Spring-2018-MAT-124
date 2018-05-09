@@ -126,9 +126,9 @@ while (i > 1 && j > 1) {
 ### results
 # score matrix
 s.m
-# Aligned A
+# Aligned A: CT-AA
 seq.A
-# Aligned B
+# Aligned B: CTCAA
 seq.B
-# Final Score
+# Final Score: 6
 max(s.m)

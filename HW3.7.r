@@ -144,10 +144,10 @@ if (nonindel.A != length(A.)-1) {
 ### results
 # score matrix
 s.m
-# Aligned A
+# Aligned A: ATCGT-
 seq.A
-# Aligned B
+# Aligned B: -TGGTG
 seq.B
-# Final Score
+# Final Score: -2
 s.m[length(s.m)]
   
