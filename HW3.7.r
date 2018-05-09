@@ -87,7 +87,7 @@ while (i > 1 && j > 1) {
     next()
   }
   
-  # Vertical, 
+  # Vertical
   s.global = s.m[i-1,j]
   if (s.global + indel == s.m[i,j]) {
     seq.A <- c(A.[i], seq.A)
